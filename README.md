@@ -1,0 +1,1 @@
+# raster-satellite-image-clip-by-extent
